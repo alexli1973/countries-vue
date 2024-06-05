@@ -1,0 +1,25 @@
+{
+  "name": "countries-vue",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vue-leaflet/vue-leaflet": "^0.10.1",
+    "axios": "^1.7.2",
+    "vue": "^3.4.21",
+    "vue-class-component": "^8.0.0-0",
+    "vue-router": "^4.3.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-service": "^5.0.8",
+    "typescript": "~4.5.5",
+    "vite": "^5.2.8"
+  },
+  "type": "module"
+}
